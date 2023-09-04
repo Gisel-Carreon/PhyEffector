@@ -1,7 +1,7 @@
 ###PhyEffector_v.1: Prediction of canonical and no-canonical effectors in phytoplasma proteomes.
 
 
-###(2023) Karla Gisel Carreón-Anguiano, Blondy Canto-Canché.
+###(2023) Karla Gisel Carreón-Anguiano,Sara Vila-Luna, Luis Sáenz-Carbonell & Blondy Canto-Canché.
 ###Contact: carreon.gisel@gmail.com; cantocanche@cicy.mx
               
                 
