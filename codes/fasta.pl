@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-motif_fdr.pl - evaluates "motifs" from protein file
+fasta.pl.pl - extract sequences from ID file
 
 =head1 DESCRIPTION
 
@@ -15,7 +15,7 @@ Blondy Canto, E<lt>blondy.canto@cicy.mx<gt>.
 
 =head1 DATE
 
-21 - 09 -2023
+04 - 09 -2023
 
 =cut
 
