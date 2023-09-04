@@ -35,9 +35,9 @@ BLAST 2.9.0 or later.
 
 
 ###MINIMAL REQUIREMENTS
--2 CPUs
--4 GB RAM
--A bash terminal in a unix-type environment, we primarily test on the current ubuntu LTS.
+2 CPUs
+4 GB RAM
+A bash terminal in a unix-type environment, we primarily test on the current ubuntu LTS.
 
 
 ###Pre-installation for use PhyEffector:
