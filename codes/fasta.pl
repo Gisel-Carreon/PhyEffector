@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-fasta.pl.pl - extract sequences from ID file
+fasta.pl - extract sequences from ID file
 
 =head1 DESCRIPTION
 
